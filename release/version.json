@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "zip": "https://raw.githubusercontent.com/Duranaeducan/mafia-addons/main/release/MafiaAddons.zip",
-  "sha256": "75be13a866cba8e2952847e6ea7bc888bcd8e126bb8c6a71839dfd967ab7650b",
-  "notes": "Premiere version"
+  "sha256": "e57a2d0db58b33bfc0567e3bd52cb081259893d1742e08f21b073dcedb1433d5",
+  "notes": "Icones des filons : plus de gemmes a la place du minerai"
 }
