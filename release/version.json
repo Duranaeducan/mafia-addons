@@ -1,6 +1,6 @@
 {
   "version": "1.0.4",
-  "zip": "https://raw.githubusercontent.com/Duranaeducan/mafia-addons/main/release/MafiaAddons.zip",
-  "sha256": "903c5ff4e0e7d73fd9bcb7fa1af9f50c0dca2e76c07dd0534064e71fdfcf53ba",
+  "zip": "https://raw.githubusercontent.com/Duranaeducan/mafia-addons/main/release/MafiaAddons-1.0.4.zip",
+  "sha256": "4b6799661dcb3af751ed0faaa8fd6073e6f9baf91fbae25ee5cc95bb5f8607c9",
   "notes": "Minimap : reglage de l'epaisseur des ronds, plantes en vert"
 }
