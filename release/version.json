@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "zip": "https://raw.githubusercontent.com/Duranaeducan/mafia-addons/main/release/MafiaAddons.zip",
-  "sha256": "95158e12cb1374bdef113538f6852f0a67dca42f6f28eb480f72e42f334f9cf0",
-  "notes": "Import GatherMate : plus de points perdus, liste des zones non importees"
+  "sha256": "044f4a77ea284645b715017be694595cf8c2e50b66df50dc3ac43c11eabb8f84",
+  "notes": "Import GatherMate : zones retrouvees par identifiant, commande /mgather zones"
 }
