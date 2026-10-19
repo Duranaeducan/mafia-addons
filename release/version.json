@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "zip": "https://raw.githubusercontent.com/Duranaeducan/mafia-addons/main/release/MafiaAddons.zip",
-  "sha256": "044f4a77ea284645b715017be694595cf8c2e50b66df50dc3ac43c11eabb8f84",
-  "notes": "Import GatherMate : zones retrouvees par identifiant, commande /mgather zones"
+  "sha256": "903c5ff4e0e7d73fd9bcb7fa1af9f50c0dca2e76c07dd0534064e71fdfcf53ba",
+  "notes": "Minimap : reglage de l'epaisseur des ronds, plantes en vert"
 }
