@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "zip": "https://raw.githubusercontent.com/Duranaeducan/mafia-addons/main/release/MafiaAddons-1.0.6.zip",
-  "sha256": "8acd1877d965141ec8535a933ec322278e9ede36687c744deaaa580d34160d59",
-  "notes": "MithrilGather : import GatherMate corrige (bonnes zones, Norfendre/Outreterre/Un'Goro, points mal ranges deplaces)"
+  "version": "1.0.7",
+  "zip": "https://raw.githubusercontent.com/Duranaeducan/mafia-addons/main/release/MafiaAddons-1.0.7.zip",
+  "sha256": "38e93dda382966de563f1615ec30d58d86476bb9dfe3e8516bf5282b9a849fb4",
+  "notes": "MithrilGather : poissons et tresors (recolte + import GatherMate), icones de carte reglables, info-bulle au survol"
 }
