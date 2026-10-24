@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "zip": "https://raw.githubusercontent.com/Duranaeducan/mafia-addons/main/release/MafiaAddons-1.0.7.zip",
-  "sha256": "fa599f8d21472cfb950a70f46b47e3271a599b46178947a17742865ce60b3ab4",
-  "notes": "MithrilGather : poissons et tresors (recolte + import GatherMate), icones de carte reglables, info-bulle au survol. MithrilHub : alerte de mise a jour aussi par groupe/raid et amis"
+  "version": "1.0.8",
+  "zip": "https://raw.githubusercontent.com/Duranaeducan/mafia-addons/main/release/MafiaAddons-1.0.8.zip",
+  "sha256": "b72e96be3b8ba91ec000d10f1b4bd7ad76faa888e6d56c66ef094492069c50d7",
+  "notes": "MithrilGather : minimap sans saccades (position lue a chaque image, coordonnees de zone), points importes visibles tout de suite"
 }
